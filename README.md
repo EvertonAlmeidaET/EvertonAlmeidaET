@@ -84,13 +84,13 @@ Atuo principalmente com **Java, Spring Boot e arquiteturas baseadas em microserv
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvertonAlmeidaET&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EvertonAlmeidaET/EvertonAlmeidaET/blob/dist/github-contribution-grid-snake.svg)
 
 ---
 
