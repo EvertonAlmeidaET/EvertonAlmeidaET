@@ -96,5 +96,5 @@ Atuo principalmente com **Java, Spring Boot e arquiteturas baseadas em microserv
 
 ## 🔗 Conecte-se comigo
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_LINKEDIN](https://github.com/EvertonAlmeidaET))
-[![GitHub]([https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO](https://www.linkedin.com/in/everton-almeida-b295a012b/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/everton-almeida-b295a012b/))
+[![GitHub]([https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/EvertonAlmeidaET))
