@@ -90,7 +90,7 @@ Atuo principalmente com **Java, Spring Boot e arquiteturas baseadas em microserv
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/EvertonAlmeidaET/EvertonAlmeidaET/blob/dist/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/EvertonAlmeidaET/EvertonAlmeidaET/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
