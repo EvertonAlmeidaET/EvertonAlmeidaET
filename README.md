@@ -1,6 +1,6 @@
 # 👋 Hello World, eu sou Everton Oliveira
 
-💼 Analista de Sistemas Java Pleno  
+💼 Analista de Sistemas Java  
 ☕ Backend Java | Spring Boot | Microservices  
 🏦 Experiência em sistemas bancários e governamentais  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou Analista de Sistemas Java Pleno, formado em Análise e Desenvolvimento de Sistemas, com sólida experiência no desenvolvimento de aplicações backend para **bancos e órgãos governamentais**.
+Sou Analista de Sistemas Java, formado em Análise e Desenvolvimento de Sistemas, com sólida experiência no desenvolvimento de aplicações backend para **bancos e órgãos governamentais**.
 
 Atuo principalmente com **Java, Spring Boot e arquiteturas baseadas em microserviços**, seguindo boas práticas de qualidade, testes automatizados e segurança de código. Tenho vivência em ambientes ágeis, projetos críticos e sistemas de alta disponibilidade.
 
